@@ -87,7 +87,7 @@
     <h2>¡Hola mundo!</h2>
 
     <!-- Imagen de perfil -->
-    <img src="Imagenes/itca-carrera-002.jpg" alt="Imagen profesional de Pamela Maza">
+    <img src="Imagenes/administrador-estadistica.png.jpg" alt="Imagen profesional de Pamela Maza">
 
     <p>
       Bienvenido a mi primera página web. Me llamo Pamela Maza y soy estudiante de Administración de Empresas con pasión por el comercio y el emprendimiento. Desde joven he estado involucrado en ventas, comenzando con la venta de pequeños articulos.
